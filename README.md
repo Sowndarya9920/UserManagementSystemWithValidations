@@ -44,6 +44,9 @@
 - ___@GetMapping , @PostMapping , @PutMapping , @DeleteMapping___ annotations are used to perform the CRUD operations.
 - ___@Valid___ is used in post mapping in order to do some validations while inserting the data.
 
+![image](https://user-images.githubusercontent.com/112794922/235081160-a94fa525-efe7-47a5-82e9-28e09f842859.png)
+
+
 
 
 
@@ -55,11 +58,17 @@
   http://localhost:8080/getAllUsers
 ```
 
+![image](https://user-images.githubusercontent.com/112794922/235081239-3b286306-ce03-4256-b036-350f89aa545c.png)
+
+
 #### ***Get Users By Id***
 
 ```http
   http://localhost:8080/getUserById/{userId}
 ```
+
+![image](https://user-images.githubusercontent.com/112794922/235081299-b2d3da46-4117-4fa9-b9b1-7b1c57375e3e.png)
+
 
 #### ***Add Users***
 
@@ -67,17 +76,26 @@
   http://localhost:8080/addUsers
 ```
 
+![image](https://user-images.githubusercontent.com/112794922/235081368-7240fcee-3c40-4092-b1a6-dcd4877f8927.png)
+
+
 #### ***Delete Users by Id***
 
 ```http
   http://localhost:8080/deleteUserById/{userId}
 ```
 
+![image](https://user-images.githubusercontent.com/112794922/235081458-d3005e3a-b293-4f51-97af-d575f1d9ff4e.png)
+
+
 #### ***Update Users by email***
 
 ```http
   http://localhost:8080/updateUser/{userId}/{email}
 ```
+
+![image](https://user-images.githubusercontent.com/112794922/235081499-541e0f2a-720b-484e-896f-17823f70c4be.png)
+
 
 ## **Service :** 
 
