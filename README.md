@@ -102,15 +102,26 @@
 - It consists of UsersService class which helps us to write the business functionalities.
 - ___@Service___ annotation is used to make the class as a service layer.
 
+![image](https://user-images.githubusercontent.com/112794922/235082066-cbc3e94c-e79e-4f2a-85d2-f0488e608ffd.png)
+
+
 ## **Repository :**
 
 - It consists of UsersDao which is used to manage or datas.
 - ___@Repository___ annotation is used to make the class repository layer.
 
+![image](https://user-images.githubusercontent.com/112794922/235082168-c5064d46-0876-4775-a5ef-7aed0f890343.png)
+
+
 ## **Validations :** 
 - ___@NotEmpty___ is used as validation for userName in order to specify that the name inserted must not be empty.
 - ___@Email___ is used as validation in email in order to specify the email must be in the order of ___abc@gmail.com___
 - ___@Size___ and ___@Pattern___ is used as validations in date of birth and phone number in order to specify the phone nymber must consists of ___10 or 12 digits___ and date of birth should be ___yyyy-mm-dd___.
+
+![image](https://user-images.githubusercontent.com/112794922/235082196-902299f3-ed8f-4edf-b793-76b43f2ca90e.png)
+
+
+
  
 
 
