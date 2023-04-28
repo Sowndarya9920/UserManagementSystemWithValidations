@@ -133,6 +133,16 @@
 ![image](https://user-images.githubusercontent.com/112794922/235101816-5ff777a6-5e8c-41f4-a5d6-be2da3b1dc5e.png)
 ![image](https://user-images.githubusercontent.com/112794922/235101872-c22fa8f6-266c-47c3-82ae-eb556ace6e65.png)
 
+- #### ***Name Validations :***
+ 
+![image](https://user-images.githubusercontent.com/112794922/235103058-25fe4704-3d39-47f9-8863-ff9d2b531dc1.png)
+
+- #### ***Date of birth validations :***
+
+![image](https://user-images.githubusercontent.com/112794922/235103245-f862d035-c1c7-4413-b128-0515d57a7b4f.png)
+
+
+
 
 ## **View :**
 
