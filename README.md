@@ -120,6 +120,20 @@
 
 ![image](https://user-images.githubusercontent.com/112794922/235082196-902299f3-ed8f-4edf-b793-76b43f2ca90e.png)
 
+
+### **Validation failed data's :**
+
+- #### ***Email validations : ***
+
+![image](https://user-images.githubusercontent.com/112794922/235101465-c225555d-b666-4d28-80e5-c6fe44522842.png)
+![image](https://user-images.githubusercontent.com/112794922/235101488-6951284f-4be4-4c2c-9bbe-7b3a43f3a1c6.png)
+
+- ####  ***Phone number Validations :***
+
+![image](https://user-images.githubusercontent.com/112794922/235101816-5ff777a6-5e8c-41f4-a5d6-be2da3b1dc5e.png)
+![image](https://user-images.githubusercontent.com/112794922/235101872-c22fa8f6-266c-47c3-82ae-eb556ace6e65.png)
+
+
 ## **View :**
 
 #### ***Get All Users :***
