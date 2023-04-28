@@ -123,7 +123,7 @@
 
 ### **Validation failed data's :**
 
-- #### ***Email validations : ***
+- #### ***Email validations :***
 
 ![image](https://user-images.githubusercontent.com/112794922/235101465-c225555d-b666-4d28-80e5-c6fe44522842.png)
 ![image](https://user-images.githubusercontent.com/112794922/235101488-6951284f-4be4-4c2c-9bbe-7b3a43f3a1c6.png)
