@@ -12,6 +12,11 @@
 - Java
 - Spring Boot
 
+![image](https://user-images.githubusercontent.com/112794922/235080305-aaa63026-92ef-40b2-b3c2-72102efd73ee.png)
+
+
+
+
 ## **Dependency used :**
 
 - Spring web
@@ -19,12 +24,18 @@
 - Lombok
 - Validations
 
+![image](https://user-images.githubusercontent.com/112794922/235080363-aebb5c84-379d-4d3c-aede-a4e74d2993ce.png)
+
+
 ## **Data Flow :**
 
 ## **Model :** 
 
 - It consists of a Users class which consists of Entity's used to model our data application.
 - By using Lombok dependency , ___@Data___ , ___@AllArgsConstructor___ , ___@NoArgsConstructor___ is used to create getters and setters as well as default and parameterized constructors.
+
+![image](https://user-images.githubusercontent.com/112794922/235080395-277ef21f-6738-4a67-a940-4f39fc3a462b.png)
+
 
 ## **Controller :**
 
