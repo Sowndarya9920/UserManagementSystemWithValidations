@@ -120,6 +120,30 @@
 
 ![image](https://user-images.githubusercontent.com/112794922/235082196-902299f3-ed8f-4edf-b793-76b43f2ca90e.png)
 
+## **View :**
+
+### ***Get All Users***
+![image](https://user-images.githubusercontent.com/112794922/235097720-bd28bee0-5b6b-43eb-9db0-5401fe5874bf.png)
+
+### ***AddUsers***
+
+![image](https://user-images.githubusercontent.com/112794922/235097805-abca79b6-615f-429e-9830-c5e64407c127.png)
+
+![image](https://user-images.githubusercontent.com/112794922/235097895-305892a7-cb23-4261-9807-952f5cd06371.png)
+
+
+### ***Get User By UserId***
+![image](https://user-images.githubusercontent.com/112794922/235097994-5729445d-9940-406d-b5e1-f3ce6073ed1c.png)
+
+### ***Delete User By userId***
+![image](https://user-images.githubusercontent.com/112794922/235098108-b5805bf6-202c-4643-85c7-b07bb25c3a9c.png)
+![image](https://user-images.githubusercontent.com/112794922/235098123-13b7352a-0ab4-4b25-b935-e82c9d80fded.png)
+
+### ***Update User By email***
+![image](https://user-images.githubusercontent.com/112794922/235098214-f7a373b2-baf9-4956-84ec-1ec9035ff5fa.png)
+
+
+
 
 
  
